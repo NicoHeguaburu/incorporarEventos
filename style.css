@@ -1,0 +1,12 @@
+#body {
+    background-color: rgb(11, 190, 131);
+}
+
+#contenedor {
+    background-color: rgb(2, 88, 45);
+}
+
+.texto {
+    color: white;
+    margin-left: 20px;
+}
